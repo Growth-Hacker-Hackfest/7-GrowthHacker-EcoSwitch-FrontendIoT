@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351437145311",
+    "project_id": "turing-diode-366404",
+    "storage_bucket": "turing-diode-366404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351437145311:android:69ff8e791acd6d9e6f156a",
+        "android_client_info": {
+          "package_name": "com.example.ecoswitchiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrNLHE_ELmJVWgD8yUatFAICtqlI-pa30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

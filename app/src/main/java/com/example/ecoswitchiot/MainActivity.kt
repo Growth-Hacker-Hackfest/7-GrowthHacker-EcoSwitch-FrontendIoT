@@ -15,6 +15,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.ecoswitchiot.presentation.CameraSensorScreen
 import com.example.ecoswitchiot.presentation.LightSensorScreen
+import com.example.ecoswitchiot.presentation.ReceiverScreen
 import com.example.ecoswitchiot.presentation.StartScreen
 import com.example.ecoswitchiot.ui.theme.EcoSwitchIoTTheme
 import dagger.hilt.android.AndroidEntryPoint
@@ -45,7 +46,7 @@ class MainActivity : ComponentActivity() {
                         }
 
                         composable("receiver") {
-
+                            ReceiverScreen()
                         }
                     }
                 }
